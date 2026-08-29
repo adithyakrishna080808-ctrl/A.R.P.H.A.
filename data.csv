@@ -1,0 +1,6 @@
+town,lat,lon,rainfall_mm_1h,rainfall_mm_3d,slope_class,soil_moisture_pct,historical_events
+Manali,32.24,77.19,40,110,High,65,1
+Naggar,32.28,77.23,35,100,Medium,60,1
+Bhuntar,31.99,77.11,45,120,High,70,1
+Kullu,32.08,77.11,30,90,Medium,55,0
+Mandi,31.71,76.93,25,80,Low,50,0
